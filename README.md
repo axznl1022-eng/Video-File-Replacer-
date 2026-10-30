@@ -168,6 +168,7 @@ The graphical interface will open directly. Select the original video folder and
 🌐 在**绿色圈出的地方**，可以切换界面语言，选择**简体中文或 English**。
 <img width="557" height="389" alt="image" src="https://github.com/user-attachments/assets/28c0046d-cdec-450f-a865-0cebd921fe56" />
 
+
 ### English
 
 🌐 You can switch the interface language between **Simplified Chinese and English** at the location highlighted with the green circle.
