@@ -160,21 +160,21 @@ Download the project files and extract them to any folder. **No installation or 
 
 The graphical interface will open directly. Select the original video folder and the encoded output folder, then follow the on-screen instructions to compare, filter, clean up, and replace files.
 
-<img width="1718" height="1217" alt="Video File Replacer main interface" src="https://github.com/user-attachments/assets/5debff01-7c0d-44c0-b9a3-bed8f3aea1cc" />
 
 ---
 
 ## 界面语言切换 | Language Switching
 
-### 简体中文
-
 🌐 在**绿色圈出的地方**，可以切换界面语言，选择**简体中文或 English**。
+<img width="557" height="389" alt="image" src="https://github.com/user-attachments/assets/28c0046d-cdec-450f-a865-0cebd921fe56" />
 
 ### English
 
 🌐 You can switch the interface language between **Simplified Chinese and English** at the location highlighted with the green circle.
 
-<img width="1718" height="1217" alt="Language selection in Video File Replacer" src="https://github.com/user-attachments/assets/5debff01-7c0d-44c0-b9a3-bed8f3aea1cc" />
+<img width="1718" height="1217" alt="Video File Replacer main interface" src="https://github.com/user-attachments/assets/5debff01-7c0d-44c0-b9a3-bed8f3aea1cc" />
+
+### 简体中文
 
 ---
 
